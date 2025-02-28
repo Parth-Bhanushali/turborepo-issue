@@ -44,6 +44,7 @@
     "@repo/ui": "*"
   },
   "devDependencies": {
+    "@repo/types": "*",
     "@babel/core": "^7.25.2",
     "@types/jest": "^29.5.12",
     "@types/react": "~18.3.12",

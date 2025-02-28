@@ -5,7 +5,8 @@
   "private": "true",
   "type": "module",
   "dependencies": {
-    "@repo/ui": "*"
+    "@repo/ui": "*",
+    "@repo/types": "*"
   },
   "devDependencies": {
     "typescript": "^5.7.3",
