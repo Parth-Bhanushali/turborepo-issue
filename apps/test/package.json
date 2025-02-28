@@ -1,0 +1,14 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "private": "true",
+  "type": "module",
+  "dependencies": {
+    "@repo/ui": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "@repo/typescript-config": "*"
+  }
+}
